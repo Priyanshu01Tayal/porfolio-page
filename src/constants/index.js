@@ -22,7 +22,7 @@ export const codingProfiles = [
     platform: "LeetCode",
     stats: "Solved 170+ DSA problems",
     icon: "https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-4-pack-logos-icons-2944960.png",
-    link: "#",
+    link: "https://leetcode.com/u/Priyanshu_Tayal/",
   },
   {
     platform: "CodeChef",
