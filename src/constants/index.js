@@ -107,6 +107,11 @@ export const certifications = [
     description: "Problem solving using core data structures.",
     icon: "https://cdn-icons-png.flaticon.com/512/10061/10061735.png",
   },
+  {
+    name: "Linux & AWS Cloud",
+    description: "Basic fundamentals of Linux administration and AWS cloud computing.",
+    icon: "https://cdn-icons-png.flaticon.com/512/5968/5968853.png",
+  },
 ];
 
 export const projects = [
