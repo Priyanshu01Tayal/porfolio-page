@@ -111,6 +111,7 @@ export const certifications = [
     name: "Linux & AWS Cloud",
     description: "Basic fundamentals of Linux administration and AWS cloud computing.",
     icon: "https://cdn-icons-png.flaticon.com/512/5968/5968853.png",
+    link: "/linux-aws-certificate.png",
   },
 ];
 

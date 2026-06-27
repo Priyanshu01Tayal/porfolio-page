@@ -19,7 +19,10 @@ const Certifications = () => {
             whileInView="show"
             viewport={{ once: true, amount: 0.25 }}
             key={cert.name}
-            className="w-full sm:w-[300px] green-pink-gradient p-[1px] rounded-[20px] shadow-card"
+            className={`w-full sm:w-[300px] green-pink-gradient p-[1px] rounded-[20px] shadow-card ${
+              cert.link ? "cursor-pointer hover:scale-105 transition-all duration-300" : ""
+            }`}
+            onClick={() => cert.link && window.open(cert.link, "_blank")}
           >
             <div className="bg-tertiary rounded-[20px] min-h-[220px] flex justify-start items-center flex-col p-6">
               <img src={cert.icon} alt={cert.name} className="w-16 h-16 object-contain mb-4" />
