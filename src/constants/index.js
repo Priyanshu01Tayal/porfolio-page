@@ -96,16 +96,19 @@ export const certifications = [
     name: "AI – Infosys",
     description: "ML basics, supervised learning, real-world applications.",
     icon: "https://cdn-icons-png.flaticon.com/512/2083/2083213.png",
+    link: "/ai-certificate.png",
   },
   {
     name: "DBMS – Infosys",
     description: "SQL, normalization, relational design.",
     icon: "https://cdn-icons-png.flaticon.com/512/1150/1150592.png",
+    link: "/dbms-certificate.png",
   },
   {
     name: "DSA – CodeChef",
     description: "Problem solving using core data structures.",
     icon: "https://cdn-icons-png.flaticon.com/512/10061/10061735.png",
+    link: "/codechef-certificate.png",
   },
   {
     name: "Linux & AWS Cloud",
