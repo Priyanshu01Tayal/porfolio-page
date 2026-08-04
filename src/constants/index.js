@@ -20,7 +20,7 @@ export const personalInfo = {
 export const codingProfiles = [
   {
     platform: "LeetCode",
-    stats: "Solved 170+ DSA problems",
+    stats: "Solved 130+ DSA problems",
     icon: "https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-4-pack-logos-icons-2944960.png",
     link: "#",
   },
@@ -101,11 +101,13 @@ export const certifications = [
     name: "DBMS – Infosys",
     description: "SQL, normalization, relational design.",
     icon: "https://cdn-icons-png.flaticon.com/512/1150/1150592.png",
+    link: "/dbms-certificate.png",
   },
   {
     name: "DSA – CodeChef",
     description: "Problem solving using core data structures.",
     icon: "https://cdn-icons-png.flaticon.com/512/10061/10061735.png",
+    link: "/codechef-certificate.png",
   },
 ];
 
@@ -144,7 +146,7 @@ export const projects = [
     ],
     image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     source_code_link: "https://github.com/",
-    live_demo_link: "#",
+    live_demo_link: "https://nextagro-nu.vercel.app/",
   },
   {
     name: "SewMitra",
