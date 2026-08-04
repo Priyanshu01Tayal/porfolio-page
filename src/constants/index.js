@@ -20,7 +20,7 @@ export const personalInfo = {
 export const codingProfiles = [
   {
     platform: "LeetCode",
-    stats: "Solved 70+ DSA problems",
+    stats: "Solved 140+ DSA problems",
     icon: "https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-4-pack-logos-icons-2944960.png",
     link: "https://leetcode.com/u/Priyanshu_Tayal/",
   },
@@ -153,7 +153,7 @@ export const projects = [
     ],
     image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     source_code_link: "https://github.com/",
-    live_demo_link: "#",
+    live_demo_link: "https://nextagro-nu.vercel.app/",
   },
   {
     name: "SewMitra",
