@@ -116,6 +116,12 @@ export const certifications = [
     icon: "https://cdn-icons-png.flaticon.com/512/5968/5968853.png",
     link: "/linux-aws-certificate.png",
   },
+  {
+    name: "GenAI Data Analytics – Tata",
+    description: "Exploratory data analysis, risk profiling, and AI-driven predictive strategy.",
+    icon: "https://cdn-icons-png.flaticon.com/512/2721/2721299.png",
+    link: "/tata-genai-certificate.pdf",
+  },
 ];
 
 export const projects = [
