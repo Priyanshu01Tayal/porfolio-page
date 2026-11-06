@@ -20,7 +20,7 @@ const Certifications = () => {
           Certifications.
         </h2>
         <p className="mt-3 text-secondary text-[16px] max-w-3xl leading-relaxed">
-          Industry and academic credentials validating competence in modern web development, algorithms, data engineering, and machine learning.
+          Industry and academic credentials validating competence in modern web development, algorithms, data engineering, cloud, and machine learning.
         </p>
       </motion.div>
 
@@ -33,7 +33,7 @@ const Certifications = () => {
             viewport={{ once: true, amount: 0.25 }}
             key={cert.name}
             className={`bg-tertiary/70 border border-[#211e35] hover:border-[#915eff]/50 p-6 rounded-2xl shadow-card flex flex-col justify-between transition-all group ${
-              cert.link ? "cursor-pointer hover:shadow-xl hover:shadow-[#915eff]/10" : ""
+              cert.link ? "cursor-pointer hover:shadow-xl hover:shadow-[#915eff]/10 hover:scale-[1.02]" : ""
             }`}
             onClick={() => cert.link && window.open(cert.link, "_blank")}
           >

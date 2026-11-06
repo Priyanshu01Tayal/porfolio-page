@@ -269,8 +269,8 @@ export const codingProfiles = [
     stats: "200+ Problems Solved",
     detail: "Data Structures & Algorithms in C++, Java & JavaScript",
     icon: "https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-4-pack-logos-icons-2944960.png",
-    link: "https://leetcode.com/",
-    badge: "Active Solver",
+    link: "https://leetcode.com/u/Priyanshu_Tayal/",
+    badge: "@Priyanshu_Tayal",
   },
   {
     platform: "CodeChef",
@@ -346,11 +346,11 @@ export const achievements = [
 
 export const certifications = [
   {
-    name: "GenAI Powered Data Analytics",
-    issuer: "Industry Certification",
-    description: "Hands-on data analytics workflows leveraging modern Generative AI models and analytical pipelines.",
-    icon: "https://cdn-icons-png.flaticon.com/512/2083/2083213.png",
-    link: null,
+    name: "GenAI Data Analytics – Tata",
+    issuer: "Tata / Forage",
+    description: "Exploratory data analysis, risk profiling, Generative AI models, and predictive business insights.",
+    icon: "https://cdn-icons-png.flaticon.com/512/2721/2721299.png",
+    link: "/tata-genai-certificate.pdf",
   },
   {
     name: "Web Development",
@@ -379,5 +379,19 @@ export const certifications = [
     description: "Relational database concepts, SQL querying, normalization, indexing, and transaction management.",
     icon: "https://cdn-icons-png.flaticon.com/512/1150/1150592.png",
     link: "/dbms-certificate.png",
+  },
+  {
+    name: "AI – Supervised Learning",
+    issuer: "Infosys",
+    description: "Machine learning foundations, supervised model evaluation, and practical intelligent workflows.",
+    icon: "https://cdn-icons-png.flaticon.com/512/2083/2083213.png",
+    link: "/ai-certificate.png",
+  },
+  {
+    name: "Linux & AWS Cloud",
+    issuer: "Cloud Computing",
+    description: "Core fundamentals of Linux command line, system administration, and Amazon Web Services (AWS) cloud hosting.",
+    icon: "https://cdn-icons-png.flaticon.com/512/5968/5968853.png",
+    link: "/linux-aws-certificate.png",
   },
 ];
