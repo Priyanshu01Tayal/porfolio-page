@@ -1,11 +1,8 @@
-import React, { Suspense } from "react";
+import { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
-import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
+import { OrbitControls, Preload } from "@react-three/drei";
 
 const Earth = () => {
-  // Using a free Earth 3D model from Three.js examples / sketchfab
-  // We'll use a primitive with a loaded GLTF model, but if it's not available, 
-  // we will fallback to a standard mesh sphere.
   return (
     <mesh>
       <hemisphereLight intensity={0.15} groundColor="black" />

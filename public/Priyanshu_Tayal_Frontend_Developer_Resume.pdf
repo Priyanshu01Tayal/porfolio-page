@@ -1,0 +1,102 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> /Contents 7 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+7 0 obj
+<< /Length 5885 >>
+stream
+BT /F1 20 Tf 50.0 750.0 Td (PRIYANSHU TAYAL) Tj ET
+BT /F1 11 Tf 50.0 734.0 Td (FRONTEND DEVELOPER  |  React.js | JavaScript | TypeScript) Tj ET
+BT /F2 9 Tf 50.0 720.0 Td (Ghaziabad, Uttar Pradesh, India   |   +91 9027500401   |   priyanshutayal01@gmail.com) Tj ET
+BT /F2 9 Tf 50.0 708.0 Td (LinkedIn: linkedin.com/in/priyanshu-tayal-34949328a   |   GitHub: github.com/Priyanshu01Tayal) Tj ET
+0.40 0.30 0.80 RG 1.2 w 50.0 698.0 m 562.0 698.0 l S
+BT /F1 11 Tf 50.0 682.0 Td (PROFESSIONAL SUMMARY) Tj ET
+0.70 0.70 0.80 RG 0.5 w 50.0 676.0 m 562.0 676.0 l S
+BT /F2 9 Tf 50.0 664.0 Td (Final-year B.Tech Computer Science student and Frontend Developer with hands-on experience building responsive,) Tj ET
+BT /F2 9 Tf 50.0 653.0 Td (interactive web applications using React.js, JavaScript, HTML5 and CSS3. Experienced in developing reusable React) Tj ET
+BT /F2 9 Tf 50.0 642.0 Td (components, integrating REST APIs, and connecting frontend workflows with Node.js/Express.js backends and ML services.) Tj ET
+BT /F2 9 Tf 50.0 631.0 Td (Comfortable with TypeScript, Next.js, Git and GitHub, with a strong foundation in Data Structures & Algorithms) Tj ET
+BT /F2 9 Tf 50.0 620.0 Td (\(200+ problems solved on LeetCode and CodeChef\).) Tj ET
+BT /F1 11 Tf 50.0 603.0 Td (TECHNICAL SKILLS) Tj ET
+0.70 0.70 0.80 RG 0.5 w 50.0 597.0 m 562.0 597.0 l S
+BT /F1 9 Tf 50.0 585.0 Td (Frontend:) Tj ET
+BT /F2 9 Tf 175.0 585.0 Td (React.js, JavaScript \(ES6+\), TypeScript, Next.js, HTML5, CSS3, Responsive Design, REST API Integration) Tj ET
+BT /F1 9 Tf 50.0 574.0 Td (Backend & Databases:) Tj ET
+BT /F2 9 Tf 175.0 574.0 Td (Node.js, Express.js, JWT Authentication, MongoDB, MySQL) Tj ET
+BT /F1 9 Tf 50.0 563.0 Td (Development Tools:) Tj ET
+BT /F2 9 Tf 175.0 563.0 Td (Git, GitHub, VS Code, Postman) Tj ET
+BT /F1 9 Tf 50.0 552.0 Td (Additional Technologies:) Tj ET
+BT /F2 9 Tf 175.0 552.0 Td (Python, Java, Scikit-learn, TensorFlow \(Basic\), OpenCV \(Basic\)) Tj ET
+BT /F1 9 Tf 50.0 541.0 Td (Core Computer Science:) Tj ET
+BT /F2 9 Tf 175.0 541.0 Td (Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Networks) Tj ET
+BT /F1 11 Tf 50.0 524.0 Td (PROFESSIONAL EXPERIENCE) Tj ET
+0.70 0.70 0.80 RG 0.5 w 50.0 518.0 m 562.0 518.0 l S
+BT /F1 10 Tf 50.0 505.0 Td (Web Development Intern) Tj ET
+BT /F2 9 Tf 185.0 505.0 Td (-- Mind Strong IT Services Private Limited) Tj ET
+BT /F3 9 Tf 435.0 505.0 Td (July 2026 - September 2026) Tj ET
+BT /F2 9 Tf 60.0 494.0 Td (* Contributed to frontend development and backend integration for full-stack web applications.) Tj ET
+BT /F2 9 Tf 60.0 484.0 Td (* Supported end-to-end application delivery and worked on database management tasks.) Tj ET
+BT /F1 10 Tf 50.0 470.0 Td (AI/ML Trainee) Tj ET
+BT /F2 9 Tf 140.0 470.0 Td (-- GI Ventures India) Tj ET
+BT /F3 9 Tf 435.0 470.0 Td (September 2025 - May 2026) Tj ET
+BT /F2 9 Tf 60.0 459.0 Td (* Built machine learning pipelines in Python using NumPy, Pandas and Scikit-learn.) Tj ET
+BT /F2 9 Tf 60.0 449.0 Td (* Performed data preprocessing, feature engineering, trained & evaluated regression and classification models.) Tj ET
+BT /F2 9 Tf 60.0 439.0 Td (* Implemented train/test splits, cross-validation, and utilized AI-assisted coding workflows for experimentation.) Tj ET
+BT /F1 11 Tf 50.0 424.0 Td (FEATURED PROJECTS) Tj ET
+0.70 0.70 0.80 RG 0.5 w 50.0 418.0 m 562.0 418.0 l S
+BT /F1 10 Tf 50.0 405.0 Td (AlzCare - Alzheimer MRI Detection & Cognitive Care Platform) Tj ET
+BT /F3 8.5 Tf 360.0 405.0 Td (React.js, Express.js, FastAPI, Expo / React Native, MongoDB) Tj ET
+BT /F2 9 Tf 60.0 394.0 Td (* Developed responsive, interactive interfaces for doctor dashboard and patient rehabilitation exercise workflows.) Tj ET
+BT /F2 9 Tf 60.0 384.0 Td (* Built reusable React components and integrated Express.js REST APIs with FastAPI-based ML microservice.) Tj ET
+BT /F1 10 Tf 50.0 371.0 Td (NextAgro - Full Stack & AI-Enabled Web Application) Tj ET
+BT /F3 8.5 Tf 350.0 371.0 Td (React.js, Node.js, Express.js, MongoDB, Python, TensorFlow, OpenCV) Tj ET
+BT /F2 9 Tf 60.0 360.0 Td (* Built full-stack agriculture platform with responsive React.js frontend connecting farmers directly with consumers.) Tj ET
+BT /F2 9 Tf 60.0 350.0 Td (* Developed REST APIs and integrated CNN-based crop disease image classification using TensorFlow & OpenCV.) Tj ET
+BT /F3 8.5 Tf 430.0 350.0 Td (\(Live: nextagro-nu.vercel.app\)) Tj ET
+BT /F1 10 Tf 50.0 337.0 Td (Civic Issue Reporting System) Tj ET
+BT /F3 8.5 Tf 365.0 337.0 Td (React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary) Tj ET
+BT /F2 9 Tf 60.0 326.0 Td (* Developed full-stack reporting web app with JWT authentication, role-based access control, and Cloudinary image upload.) Tj ET
+BT /F2 9 Tf 60.0 316.0 Td (* Implemented responsive UI with interactive dashboards and REST API CRUD operations for citizen and admin roles.) Tj ET
+BT /F1 11 Tf 50.0 301.0 Td (EDUCATION) Tj ET
+0.70 0.70 0.80 RG 0.5 w 50.0 295.0 m 562.0 295.0 l S
+BT /F1 10 Tf 50.0 282.0 Td (ABES Institute of Technology, Ghaziabad) Tj ET
+BT /F3 9 Tf 445.0 282.0 Td (2023 - 2027) Tj ET
+BT /F2 9 Tf 50.0 271.0 Td (Bachelor of Technology - Computer Science & Engineering | Current CGPA: 8.3 / 10) Tj ET
+BT /F2 8.5 Tf 50.0 261.0 Td (Relevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks) Tj ET
+BT /F1 11 Tf 50.0 246.0 Td (ACHIEVEMENTS & CERTIFICATIONS) Tj ET
+0.70 0.70 0.80 RG 0.5 w 50.0 240.0 m 562.0 240.0 l S
+BT /F2 9 Tf 50.0 228.0 Td (* Finalist - Smart India Hackathon \(SIH 2025\)   |   Winner - Codathon \(2025\)) Tj ET
+BT /F2 9 Tf 50.0 218.0 Td (* 200+ Problems Solved across LeetCode and CodeChef   |   Volunteer - Rubix Technical Club) Tj ET
+BT /F2 9 Tf 50.0 208.0 Td (* Certifications: GenAI Powered Data Analytics, Web Development \(Apna College\), Data Structures \(CodeChef\), AI/ML \(GI Ventures\)) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000261 00000 n 
+0000000336 00000 n 
+0000000406 00000 n 
+0000000484 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+6421
+%%EOF
